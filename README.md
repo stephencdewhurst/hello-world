@@ -1,2 +1,2 @@
 # hello-world
-first repository
+edits to readme for first repository
